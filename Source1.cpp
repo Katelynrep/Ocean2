@@ -1,3 +1,5 @@
+// This program is designed to determine the amount that sea levels will rise in 5,  7, and 10 years with a rise rate of 1.5mm
+
 #include <iostream>
 using namespace std;
 
