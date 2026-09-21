@@ -1,4 +1,7 @@
 // This program is designed to determine the amount that sea levels will rise in 5,  7, and 10 years with a rise rate of 1.5mm
+// this is a C++ program
+// the program shoud calculate 5x1.5=7.5 7x1.5=10.5 10x1.5=15 and display the calculations promptly
+
 
 #include <iostream>
 using namespace std;
